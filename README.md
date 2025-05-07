@@ -23,37 +23,36 @@
 
 ## 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat-square&logo=rust)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=Cplusplus)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<!-- ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) -->
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) </br>
 
-![Fastapi](https://img.shields.io/badge/-Fastapi-333?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=Django)
-![Pytest](https://img.shields.io/badge/-Pytest-333?style=flat-square&logo=Pytest)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-333?style=flat-square&logo=Numpy)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=OpenCV)
-![Pytorch](https://img.shields.io/badge/-Pytorch-333?style=flat-square&logo=Pytorch)
-</br>
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)</br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-333?style=flat-square&logo=Postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=MongoDB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333?style=flat-square&logo=Elasticsearch)
-</br>
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat-square&logo=kubernetes)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white)
+<!-- ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) -->
 
-![Bevy](https://img.shields.io/badge/-Bevy-333?style=flat-square&logo=Bevy)
-<!-- ![UE5](https://img.shields.io/badge/-UE5-333?style=flat-square&logo=UnrealEngine) -->
-
-![Gitlab](https://img.shields.io/badge/-Gitlab-333?style=flat-square&logo=gitlab)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  </br>
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
